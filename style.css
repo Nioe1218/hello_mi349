@@ -1,0 +1,30 @@
+body{
+    background: #121212;
+    color:#ffffff;
+    padding: 50px;
+    font-family: Helvetica;
+}
+
+h1{
+    font-size: 3em;
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 5px;
+}
+
+h2{
+    font-size: 2.2em;
+}
+
+#hello{
+    color: red;
+}
+
+.contents{
+    background: #424242;
+    padding: 10px;
+
+}
+
+#jpg{
+   width: 350px;
+}
